@@ -1,1 +1,3 @@
 This is a new feature I implemented in feature1 branch.
+Now I've added this in-between, on feature1.
+This is a new line added in main branch.
